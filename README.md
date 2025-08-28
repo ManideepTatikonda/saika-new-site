@@ -23,6 +23,7 @@ This site for Saika Technologies is built with React, Vite, and Tailwind CSS.
 
 ### Clone & Install
 ```bash
-git clone https://github.com/<your-org>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/ManideepTatikonda/saika-new-site.git
+cd saika-new-site
 npm install
+npm run dev
